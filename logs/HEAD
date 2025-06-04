@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 157a5f1ba96e3d0d13a04cfc54cad43b9f6a54b7 pratik29602 <pratik.mane@pisystindia.com> 1731909935 +0530	commit (initial): first push
+157a5f1ba96e3d0d13a04cfc54cad43b9f6a54b7 157a5f1ba96e3d0d13a04cfc54cad43b9f6a54b7 pratik29602 <pratik.mane@pisystindia.com> 1731910957 +0530	checkout: moving from main to pratik_final_code_18_nov
+157a5f1ba96e3d0d13a04cfc54cad43b9f6a54b7 492f6ec8f7e6e338e5023b0d8b9c88fc94dfdb77 pratik29602 <pratik.mane@pisystindia.com> 1731911118 +0530	commit: final push
+492f6ec8f7e6e338e5023b0d8b9c88fc94dfdb77 492f6ec8f7e6e338e5023b0d8b9c88fc94dfdb77 pratik29602 <pratik.mane@pisystindia.com> 1731911427 +0530	checkout: moving from pratik_final_code_18_nov to pratik_final_18_nov
+492f6ec8f7e6e338e5023b0d8b9c88fc94dfdb77 da375b433d2ca631e907d58326834bce6c65bc9c pratik29602 <pratik.mane@pisystindia.com> 1731911453 +0530	commit: final push
+da375b433d2ca631e907d58326834bce6c65bc9c 509141874707a08fa748116398c0b633cfac83de pratik29602 <pratik.mane@pisystindia.com> 1731911727 +0530	commit: Add yolov5s.pt using Git LFS
+509141874707a08fa748116398c0b633cfac83de 2a08e3fd2b7eec2cac067f1b4aedc900a52f63e1 pratik29602 <pratik.mane@pisystindia.com> 1731921149 +0530	commit: final push
+2a08e3fd2b7eec2cac067f1b4aedc900a52f63e1 0ec290016fc3d4bfd78d8742c3be145226d8d319 pratik29602 <pratik.mane@pisystindia.com> 1731921407 +0530	commit: Stop tracking and ignore .pt files
+0ec290016fc3d4bfd78d8742c3be145226d8d319 574336af40831ee0578ad85f590d85a1a46dc9f4 pratik29602 <pratik.mane@pisystindia.com> 1731922058 +0530	commit: final push add yolov3-helmet.weights file
+574336af40831ee0578ad85f590d85a1a46dc9f4 574336af40831ee0578ad85f590d85a1a46dc9f4 pratik29602 <pratik.mane@pisystindia.com> 1733812041 +0530	checkout: moving from pratik_final_18_nov to pratik_10_dec
+574336af40831ee0578ad85f590d85a1a46dc9f4 0dd65e3b263c1a9a3fd0711e640296ee870be445 pratik29602 <pratik.mane@pisystindia.com> 1733812932 +0530	commit: admin panel added
+0dd65e3b263c1a9a3fd0711e640296ee870be445 ba5543be72045d862cc870b4259d6834bfbc26c1 pratik29602 <pratik.mane@pisystindia.com> 1733814169 +0530	commit: Set up Git LFS and exclude unnecessary files
+ba5543be72045d862cc870b4259d6834bfbc26c1 e73d423371d9a018f2596d4583ae5a11a310b723 pratik29602 <pratik.mane@pisystindia.com> 1733815118 +0530	commit: Update .gitignore to exclude .DS_Store, .gitignore, and sort directory
+e73d423371d9a018f2596d4583ae5a11a310b723 1cfaa065089421267a4f42a687ad78bede4518ce pratik29602 <pratik.mane@pisystindia.com> 1733815270 +0530	commit: admin added
+1cfaa065089421267a4f42a687ad78bede4518ce 14ed11aa224174c8b8201a57971e5a51fd1a3686 pratik29602 <pratik.mane@pisystindia.com> 1733815473 +0530	commit: Remove unnecessary files from tracking
+14ed11aa224174c8b8201a57971e5a51fd1a3686 749b1d6de851f264d9c75a7b39eafbd3a9b3ef81 pratik29602 <pratik.mane@pisystindia.com> 1733816108 +0530	commit: Remove yolov3-helmet.weights from LFS tracking
+9f497092f7f4f00a0d47eb7b6b06d3339c69dd0e 80af5cad546306a9978b2e946d8309d59b08e8ea pratik29602 <pratik.mane@pisystindia.com> 1733818470 +0530	commit: done with admin
+80af5cad546306a9978b2e946d8309d59b08e8ea 3bd674206493c0ca36c6744c4c3afc37de8f88e3 pratik29602 <pratik.mane@pisystindia.com> 1733818731 +0530	commit: ffirst commit
+3bd674206493c0ca36c6744c4c3afc37de8f88e3 a6080e84ee1c254417d8aa04d738e1c143ae9d6c pratik29602 <pratik.mane@pisystindia.com> 1733830265 +0530	commit: admin added

@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+157a5f1ba96e3d0d13a04cfc54cad43b9f6a54b7 refs/heads/main
+9f497092f7f4f00a0d47eb7b6b06d3339c69dd0e refs/heads/pratik_10_dec
+7d18fb34022d480af6a85a501b9229dbd4ed333c refs/heads/pratik_final_18_nov
+6c4f6dbaeae87ee976e7bc6db92937de6899f4b5 refs/heads/pratik_final_code_18_nov
+40d6841d88fadc4e60119914bc580a3edd0a1d90 refs/remotes/origin/main
+40d6841d88fadc4e60119914bc580a3edd0a1d90 refs/remotes/origin/pratik_10_dec
+157a5f1ba96e3d0d13a04cfc54cad43b9f6a54b7 refs/remotes/origin/pratik_final_18_nov
